@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pokeapp/static/css/main.bdbf017f.css",
+    "main.js": "/pokeapp/static/js/main.732cd9f9.js",
+    "static/js/787.90e43d2f.chunk.js": "/pokeapp/static/js/787.90e43d2f.chunk.js",
+    "static/media/pokebola.svg": "/pokeapp/static/media/pokebola.bd7d98891767a4fb5f7696f2f8ec3774.svg",
+    "index.html": "/pokeapp/index.html",
+    "main.bdbf017f.css.map": "/pokeapp/static/css/main.bdbf017f.css.map",
+    "main.732cd9f9.js.map": "/pokeapp/static/js/main.732cd9f9.js.map",
+    "787.90e43d2f.chunk.js.map": "/pokeapp/static/js/787.90e43d2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdbf017f.css",
+    "static/js/main.732cd9f9.js"
+  ]
+}
